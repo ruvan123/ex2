@@ -1,2 +1,2 @@
 print("Hello World")
-print("dlrow olleH")
+print("dlrow olleh")
